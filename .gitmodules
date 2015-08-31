@@ -1,0 +1,45 @@
+[submodule "agent"]
+	path = agent
+	url = https://github.com/open-falcon/agent.git
+[submodule "alarm"]
+	path = alarm
+	url = https://github.com/open-falcon/alarm.git
+[submodule "dashboard"]
+	path = dashboard
+	url = https://github.com/open-falcon/dashboard.git
+[submodule "links"]
+	path = links
+	url = https://github.com/open-falcon/links.git
+[submodule "fe"]
+	path = fe
+	url = https://github.com/open-falcon/fe.git
+[submodule "portal"]
+	path = portal
+	url = https://github.com/open-falcon/portal.git
+[submodule "transfer"]
+	path = transfer
+	url = https://github.com/open-falcon/transfer.git
+[submodule "judge"]
+	path = judge
+	url = https://github.com/open-falcon/judge.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/open-falcon/gateway.git
+[submodule "sender"]
+	path = sender
+	url = https://github.com/open-falcon/sender.git
+[submodule "task"]
+	path = task
+	url = https://github.com/open-falcon/task.git
+[submodule "query"]
+	path = query
+	url = https://github.com/open-falcon/query.git
+[submodule "graph"]
+	path = graph
+	url = https://github.com/open-falcon/graph.git
+[submodule "hbs"]
+	path = hbs
+	url = https://github.com/open-falcon/hbs.git
+[submodule "scripts"]
+	path = scripts
+	url = https://github.com/open-falcon/scripts.git
