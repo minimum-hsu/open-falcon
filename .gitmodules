@@ -1,45 +1,64 @@
 [submodule "agent"]
 	path = agent
-	url = https://github.com/open-falcon/agent.git
+	url = https://github.com/Cepave/agent.git
+	branch = develop
+[submodule "aggregator"]
+	path = aggregator
+	url = https://github.com/Cepave/aggregator.git
+	branch = develop
 [submodule "alarm"]
 	path = alarm
-	url = https://github.com/open-falcon/alarm.git
+	url = https://github.com/Cepave/alarm.git
+	branch = develop
 [submodule "dashboard"]
 	path = dashboard
-	url = https://github.com/open-falcon/dashboard.git
-[submodule "links"]
-	path = links
-	url = https://github.com/open-falcon/links.git
+	url = https://github.com/Cepave/dashboard.git
+	branch = develop
 [submodule "fe"]
 	path = fe
-	url = https://github.com/open-falcon/fe.git
-[submodule "portal"]
-	path = portal
-	url = https://github.com/open-falcon/portal.git
-[submodule "transfer"]
-	path = transfer
-	url = https://github.com/open-falcon/transfer.git
-[submodule "judge"]
-	path = judge
-	url = https://github.com/open-falcon/judge.git
-[submodule "gateway"]
-	path = gateway
-	url = https://github.com/open-falcon/gateway.git
-[submodule "sender"]
-	path = sender
-	url = https://github.com/open-falcon/sender.git
-[submodule "task"]
-	path = task
-	url = https://github.com/open-falcon/task.git
-[submodule "query"]
-	path = query
-	url = https://github.com/open-falcon/query.git
+	url = https://github.com/Cepave/fe.git
+	branch = develop
 [submodule "graph"]
 	path = graph
-	url = https://github.com/open-falcon/graph.git
+	url = https://github.com/Cepave/graph.git
+	branch = develop
 [submodule "hbs"]
 	path = hbs
-	url = https://github.com/open-falcon/hbs.git
+	url = https://github.com/Cepave/hbs.git
+	branch = develop
+[submodule "judge"]
+	path = judge
+	url = https://github.com/Cepave/judge.git
+	branch = develop
+[submodule "links"]
+	path = links
+	url = https://github.com/Cepave/links.git
+	branch = develop
+[submodule "nodata"]
+	path = nodata
+	url = https://github.com/Cepave/nodata.git
+	branch = develop
+[submodule "portal"]
+	path = portal
+	url = https://github.com/Cepave/portal.git
+	branch = develop
+[submodule "query"]
+	path = query
+	url = https://github.com/Cepave/query.git
+	branch = develop
+[submodule "sender"]
+	path = sender
+	url = https://github.com/Cepave/sender.git
+	branch = develop
+[submodule "task"]
+	path = task
+	url = https://github.com/Cepave/task.git
+	branch = develop
+[submodule "transfer"]
+	path = transfer
+	url = https://github.com/Cepave/transfer.git
+	branch = develop
 [submodule "scripts"]
 	path = scripts
-	url = https://github.com/open-falcon/scripts.git
+	url = https://github.com/Cepave/scripts.git
+	branch = develop
